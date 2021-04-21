@@ -24,9 +24,9 @@ public class App {
         int n2 = Integer.parseInt(info[3]);
         int n3 = Integer.parseInt(info[4]);
         int n4 = Integer.parseInt(info[5]);
-
+        
         int media = (n1 + n2 + n3 + n4) / 4;
-        System.out.println(String.format("O aluno %s, ficou com %d de media na disciplina de %s", nome, media, disciplina));
+        System.out.println(String.format("O aluno %s, ficou com %d de média na disciplina de %s", nome, media, disciplina));
 
     }
 }

@@ -1,0 +1,1 @@
+Math.pow(numero, 2)
