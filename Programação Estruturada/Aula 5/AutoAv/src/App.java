@@ -25,8 +25,8 @@ public class App {
         System.out.println("Numero digitado: " + range); */
 
         //Q3
-        for (int a = 0; a < 15; a += 2) {
+        /* for (int a = 0; a < 15; a += 2) {
             System.out.println(a);
-        }
+        } */
     }
 }
