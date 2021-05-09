@@ -29,6 +29,6 @@ class Filme {
 
     @Override
     public String toString() {
-        return String.format("Nome = %s \nAutor = %s \nAno = %d, \nPreco = %f", nome, autor, ano, preco);
+        return String.format("Nome = %s \nAutor = %s \nAno = %d \nPreco = R$%.2f", nome, autor, ano, preco);
     }
 }
