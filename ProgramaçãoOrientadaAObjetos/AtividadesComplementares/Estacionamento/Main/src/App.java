@@ -4,9 +4,6 @@ public class App {
         System.out.println(Gabriel);
     }
 }
-class Estacionamento {
-
-}
 class Pessoa {
     protected String nome;
     protected int idade;
